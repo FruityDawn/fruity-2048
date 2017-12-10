@@ -1,0 +1,24 @@
+{
+  "token": "INSERT_CLIENT_TOKEN_HERE",
+  "prefix": "!", 
+  "edit" : true,
+  "disableManualCmds" : true,
+  "tiles" : [
+         ":stop_button:",
+  			 ":zero:",
+  			 ":one:",
+  			 ":two:",
+  			 ":three:",
+  			 ":four:",
+  			 ":five:",
+  			 ":six:",
+  			 ":seven:",
+  			 ":eight:",
+  			 ":nine:",
+  			 ":keycap_ten:"
+            ],
+  "left": "◀",
+  "down": "🔽",
+  "up": "🔼",
+  "right": "▶"
+}
