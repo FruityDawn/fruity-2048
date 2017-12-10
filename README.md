@@ -36,7 +36,7 @@ On your server, type a '\' before each emoji to get its id:
 You should see something like this after you send it:  
 <img src= "images/id.png" width= "221" height= "54">  
   
-Replace each element in the "tiles" array in config.json with its corresponding emoji id  (where each tile is given by array_index^2):  
+Replace each element in the "tiles" array in config.json with its corresponding emoji id  (where each tile is given by 2^array_index):  
 <img src= "images/tiles.png" width= "297" height= "242">  
 
 You can keep adding tiles (or have less tiles) over 2^11 (2048) - just make sure to change *MAXTILE* in game.js.
