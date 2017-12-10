@@ -30,7 +30,7 @@ React to move, or use manual commands (!left, !right, !up, !down) if they are en
 # Custom Tiles  
 To change from the default emojis offered by discord, upload your own emojis to your server. I've included the ones I made in /emojis if you'd like to use them.  
   
-On your server, type a '\' before each emoji to get its id:  
+On your server, type a '\\' before each emoji to get its id:  
 <img src= "images/chat.png" width= "172" height= "70"> 
   
 You should see something like this after you send it:  
